@@ -1,3 +1,11 @@
+/*
+
+MainActivity.java
+Frank Ableson for IBM Developerworks
+
+
+
+ */
 package com.navitend.getwebpage;
 
 import android.app.Activity;
